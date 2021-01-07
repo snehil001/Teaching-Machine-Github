@@ -1,4 +1,4 @@
 # Teachable-Machine
 Learning from the coding train
 ## Audio Classification
-[link](https://snehil001.github.io/Teaching-Machine-Github/){:target="_blank"}
+<a href="https://snehil001.github.io/Teaching-Machine-Github/" target="_blank">https://snehil001.github.io/Teaching-Machine-Github/</a>
