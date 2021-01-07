@@ -8,7 +8,7 @@ let label = "Say something..."
 
 // STEP 1: Load the model!
 function preload(){
-	classifier = ml5.soundClassifier('https://snehil001.github.io/Teachable-Machine-Github/mlmodelji/model.json');
+	classifier = ml5.soundClassifier('https://snehil001.github.io/Teaching-Machine-Github/mlmodelji/model.json');
 }
 
 
